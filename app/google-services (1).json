@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653848714122",
+    "project_id": "afterglow-dfbe7",
+    "storage_bucket": "afterglow-dfbe7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653848714122:android:0a7283959e751ee50bc673",
+        "android_client_info": {
+          "package_name": "com.afterglow.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653848714122-qu6o13734k7dkl6ogf568ruilqubatkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afterglow.messenger",
+            "certificate_hash": "efabf85c7663aa98a8a200a7298a45913ea84048"
+          }
+        },
+        {
+          "client_id": "653848714122-c6l511t5acuvqupes357gk41ts406372.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi2xfyl9NZesiUJTNt0_qLU0sd-y7TI3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653848714122-c6l511t5acuvqupes357gk41ts406372.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

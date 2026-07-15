@@ -1,0 +1,10 @@
+<resources>
+    <!-- Compose owns all real theming (see ui/theme/Theme.kt). This just
+         keeps the window dark from the first frame so there's no white
+         flash before Compose takes over. -->
+    <style name="Theme.Afterglow" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ink_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
